@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 work at iwco<br>👯 software development<br>🤝programming logic<br>🌱 python flask<br>💬 development<br>⚡I am very sporty<br>
+🔭 trabajar en iwco
+👯 desarrollo de software
+🤝 lógica de programación
+🌱 matraz de pitón
+💬 desarrollo
+⚡soy muy deportista 
 
 
 ## 🌐 Socials:
