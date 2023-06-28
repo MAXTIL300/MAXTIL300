@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫Aserca de mi:
 🔭 trabajo en iwco
 👯 desarrollo de software
 🤝 lógica de programación
