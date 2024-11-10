@@ -17,6 +17,8 @@
 
 ###
 
+
+
 <h3 align="left">🔥   My social networks :</h3>
 
 ###
@@ -47,17 +49,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="450" src="https://img.freepik.com/vector-gratis/computadora-portatil-icono-isometrico-codigo-programa-desarrollo-software-aplicaciones-programacion-neon-oscuro_39422-971.jpg?t=st=1731270377~exp=1731273977~hmac=f0746d5ac033c19171e436a7b7ea1ca7b1a756612cac73d9bf809a8eb5cbfe2e&w=996"  />
-
-###
-
-
-
-###
-
-<div align="right">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
@@ -96,5 +88,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<img align="right" height="620" src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0"  />
 
 ###
