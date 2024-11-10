@@ -1,13 +1,11 @@
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/130266349?v=4"  />
-
-<img align="right" height="420" src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0"  />
+<img align="right" height="250" src="https://avatars.githubusercontent.com/u/130266349?v=4"  />
 
 
 
 ###
 
-<h1 align="center">hola,Bienvenido 👋</h1>
+<h3 align="center">hola,Bienvenido 👋</h3>
 
 ###
 
