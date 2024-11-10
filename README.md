@@ -5,6 +5,7 @@
 🌱 Flask,Python
 💬 desarrollo
 ⚡ deportista 
+developer
 
 
 ## 🌐 Socials:
