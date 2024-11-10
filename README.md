@@ -3,6 +3,8 @@
 
 <img align="right" height="420" src="https://media.licdn.com/dms/image/v2/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=g-dw3FI3xdjJRFvnPlFM9vFqoXc5N3SxnW4jEuqG4o0"  />
 
+
+
 ###
 
 <h1 align="center">hola,Bienvenido 👋</h1>
@@ -53,6 +55,7 @@
 
 ###
 
+<img align="left" height="150" src="https://cdn-icons-png.flaticon.com/512/9496/9496109.png"  />
 
 ###
 
