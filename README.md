@@ -53,7 +53,7 @@
 
 ###
 
-<img align="left" height="150" src="https://cdn-icons-png.flaticon.com/512/9496/9496109.png"  />
+
 
 ###
 
